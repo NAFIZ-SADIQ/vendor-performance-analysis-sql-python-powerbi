@@ -153,4 +153,4 @@ python scripts/get_vendor_summary.py
 **Nafiz Sadiq**  
 Data Analyst  
 📧 Email: sadiq805144@gmail.com  
-🔗 [LinkedIn](https://github.com/NAFIZ-SADIQ) 
+🔗 [LinkedIn](https://www.linkedin.com/in/md-nafiz-sadiq-6b508b237/) 
